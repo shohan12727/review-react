@@ -1,0 +1,7 @@
+.card-container{
+    border: 4px dotted tomato ;
+    border-radius: 10px;
+    background-color: rgba(0, 255, 255, 0.178);
+    color: rgb(85, 20, 198);
+}
+
