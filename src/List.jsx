@@ -16,7 +16,7 @@ function List (props){
     return(
         <>
         <h3>{categoty}</h3>   
-        <ol  className="card-container">{itemLists}</ol>
+        <ol  className="card-container">{itemLists}</ol> 
         </>
 
     );
